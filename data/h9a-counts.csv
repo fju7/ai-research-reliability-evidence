@@ -1,0 +1,6 @@
+system,candidates_adjudicated,qualifying_cases,conservative_families,positive
+STORM,1,0,0,false
+SWE-bench,5,4,3,true
+Inspect AI,6,5,4,true
+GPT Researcher,4,2,2,true
+Ragas,9,6,5,true

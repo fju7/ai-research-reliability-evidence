@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this evidence package, cite the release tag and commit."
+title: "AI Research Reliability Evidence Package"
+version: "0.1-evidence"
+date-released: 2026-09-15
+authors:
+  - family-names: "Ugast"
+    given-names: "Fred"
+type: dataset

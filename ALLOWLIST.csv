@@ -1,0 +1,23 @@
+source_private_path,public_export_path,transformation,evidence_role,redistribution_basis,status
+GENERATED,README.md,public-safe orientation and status labels,methodological,project-owned text,INCLUDED
+GENERATED,LICENSE,inspection-only rights statement,license,project-owned text,INCLUDED
+GENERATED,THIRD_PARTY_NOTICES.md,no third-party content redistributed,license,project-owned text,INCLUDED
+GENERATED,CORRECTIONS.md,no personal email embedded,governance,project-owned text,INCLUDED
+GENERATED,CITATION.cff,minimal public citation metadata,citation,project-owned metadata,INCLUDED
+GENERATED,REPRODUCIBILITY.md,mechanical and semantic boundaries stated,methodological,project-owned text,INCLUDED
+GENERATED,EVIDENCE_INDEX.md,claim-to-evidence mapping,methodological,project-owned text,INCLUDED
+GENERATED,LINK_PLAN.md,parameterized future URLs,methodological,project-owned text,INCLUDED
+step2/substack-essay-draft-v0.3.md,essay/substack-v0.4.md,R1 removed and relative links bound,publication draft,project-owned text,INCLUDED
+literature/source-ledger-v1.0.md,evidence/literature-source-ledger.md,verbatim project ledger copy with public locators,literature methodological,project-owned synthesis and short quotations,INCLUDED
+research-log/2026-09-14-H9a-inspection-protocol.md,evidence/h9a-protocol.md,verbatim project protocol copy,H9a confirmatory protocol,project-owned text,INCLUDED
+research-log/2026-09-14-H9a-initial-five-system-corpus-closeout.md,evidence/h9a-closeout.md,verbatim project closeout copy,H9a confirmatory result,project-owned text with public locators,INCLUDED
+research-log/2026-09-15-source-native-reference-validation-synthesis-and-closeout.md,evidence/r7-stopped-study.md,verbatim closeout copy,R7 invalidated methodological history,project-owned text with public locators,INCLUDED
+step2/prepublication/r1-public-evidence-presentation.md,evidence/r1-correction.md,public-safe correction copy,R1 correction,project-owned text and brief quotation,INCLUDED
+step2/prepublication/r1-independent-reconstruction.md,evidence/r1-independent-reconstruction.md,public-safe detailed reconstruction,R1 correction,project-owned text and brief quotation,INCLUDED
+step2/prepublication/r1-second-route-verification.md,evidence/r1-second-route-verification.md,public-safe source-first verification,R1 independent verification,project-owned text,INCLUDED
+GENERATED,evidence/r2-r4-naturalistic-cases.md,private implementation details removed,R2-R4 naturalistic,project-owned bounded descriptions,INCLUDED
+research-log/2026-09-14-H9a-initial-five-system-corpus-closeout.md,data/h9a-counts.csv,normalized aggregate rows only,H9a mechanical recount,project-owned derived data,INCLUDED
+research-log/2026-09-15-source-native-reference-validation-synthesis-and-closeout.md,data/r7-counts.csv,normalized aggregate rows only,R7 mechanical recount,project-owned derived data,INCLUDED
+GENERATED,verify.sh,loud-fail integrity and count checks,reproducibility,project-owned code,INCLUDED
+GENERATED,ALLOWLIST.csv,self-describing allowlist; hash in MANIFEST.sha256,release governance,project-owned metadata,INCLUDED
+GENERATED,MANIFEST.sha256,generated after final tree freeze; self excluded by necessity,integrity,project-owned metadata,INCLUDED
