@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "package": "pr275-v2-1",
+  "purpose": "Narrow N-1 through N-6 closure review of WHU PRD/Plan v2.1",
+  "created_date": "2026-09-20",
+  "private_repository": "fju7/what-holds-up",
+  "private_pr": 275,
+  "private_base": "569592872416ab563027bdfe3540a71a27e8949b",
+  "private_head": "97d7e713d03a708355b74e38d44c5598329d7b35",
+  "frozen_predecessors": [
+    {
+      "pr": 273,
+      "head": "944610c8d7b31b71b78f7925a555e7856294d515",
+      "status": "OPEN_UNMERGED_FROZEN"
+    },
+    {
+      "pr": 274,
+      "head": "569592872416ab563027bdfe3540a71a27e8949b",
+      "status": "OPEN_UNMERGED_FROZEN"
+    }
+  ],
+  "authority": "REVIEW_ONLY_NO_EXECUTION",
+  "files": [
+    {
+      "path": "CURRENT_STATE_GAP_ANALYSIS.md",
+      "bytes": 11008,
+      "sha256": "ff96fc23d32cd2654307a0904ebd1ae64445588ff8948af8ad255393b3c7f02f"
+    },
+    {
+      "path": "NEUTRAL_CONTEXT.md",
+      "bytes": 1444,
+      "sha256": "023a98e28dde2dd7e6b4e2d48c1ecdbbdd30ddab0f1f8384f6aef30d9af5e890"
+    },
+    {
+      "path": "OUTSIDE_REVIEW_ADJUDICATION.md",
+      "bytes": 21170,
+      "sha256": "6506de7bead26814e85c63b1f5fe8061143b89e686a271ca1862a630b376916b"
+    },
+    {
+      "path": "OUTSIDE_REVIEW_PROMPT.md",
+      "bytes": 3969,
+      "sha256": "a2fcbcf559f3b3c7d255b03f86f12dfa264e8d86e4f6188184176c3e459cc130"
+    },
+    {
+      "path": "PLAN.md",
+      "bytes": 20602,
+      "sha256": "855c228e5f9dc39a1e37198309fa02c66d7b37409576f7fc7a98a1528ceb1385"
+    },
+    {
+      "path": "PRODUCT_REQUIREMENTS.md",
+      "bytes": 30073,
+      "sha256": "fd924ec960661223610c24f64a2c5cea25e6a225dc1d786a13d31017372ce813"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1285,
+      "sha256": "184b2f14075bce245563f6a36b6de694730773cce2692da59d71e0fcb65a567e"
+    },
+    {
+      "path": "REQUIREMENTS_TRACEABILITY.md",
+      "bytes": 8455,
+      "sha256": "b157674d0ed25369deb54ddd9a6a9a2f8c2080cc0bf99464ef6a6532327bdc03"
+    },
+    {
+      "path": "V2_TO_V2_1_CHANGELOG.md",
+      "bytes": 3654,
+      "sha256": "1db741944e229c19254c529598e059b09312cc08fb554e4b6f7e94916dcfe819"
+    }
+  ]
+}
