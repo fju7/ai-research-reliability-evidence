@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "package": "pr274-v2",
+  "purpose": "Independent review of WHU PRD/Plan v2",
+  "created_date": "2026-09-20",
+  "private_repository": "fju7/what-holds-up",
+  "private_pr": 274,
+  "private_base": "e56e2d18cddfd2814711f75be36409cbbc4474d1",
+  "private_head": "569592872416ab563027bdfe3540a71a27e8949b",
+  "predecessor_pr": 273,
+  "predecessor_head": "944610c8d7b31b71b78f7925a555e7856294d515",
+  "predecessor_status": "OPEN_UNMERGED_FROZEN",
+  "authority": "REVIEW_ONLY_NO_EXECUTION",
+  "files": [
+    {
+      "path": "CURRENT_STATE_GAP_ANALYSIS.md",
+      "bytes": 9401,
+      "sha256": "c7bea6d6480d659cf0e5dab5cbc70b7f20a7b5f758be6ea24dc4235779cc766e"
+    },
+    {
+      "path": "NEUTRAL_CONTEXT.md",
+      "bytes": 1542,
+      "sha256": "e0e24bd37b04e17bee1a1ca979ca60a19f27f7ca67d610b9fb2168b48d158bed"
+    },
+    {
+      "path": "OUTSIDE_REVIEW_ADJUDICATION.md",
+      "bytes": 15565,
+      "sha256": "b99b6c7b1c9c274f66051d9f0847cd6eec0c90281f586263cab8254d96ecd2d0"
+    },
+    {
+      "path": "OUTSIDE_REVIEW_PROMPT.md",
+      "bytes": 4598,
+      "sha256": "ca71d86dd238eb822a604fe8047007a6ef101f3ffe0c550290c15b809e3c7560"
+    },
+    {
+      "path": "PLAN.md",
+      "bytes": 16611,
+      "sha256": "b8fea1e6536683af3604cbc6bb5115cd8ebbec26c56e159ae079a411a425ce08"
+    },
+    {
+      "path": "PRODUCT_REQUIREMENTS.md",
+      "bytes": 23538,
+      "sha256": "227ed35b4a026dcb588fdbb993f473221831808eee2c85255e16e6812c7f96fc"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1512,
+      "sha256": "15e23376e42afc68a0c3fabd077a18bd84b3f4e04f738b25e41626e4712accee"
+    },
+    {
+      "path": "REQUIREMENTS_TRACEABILITY.md",
+      "bytes": 7578,
+      "sha256": "8b92f75d308d45fdd8fee4192ec6136a69f1efd81eabe45894e553f894e71feb"
+    },
+    {
+      "path": "V1_TO_V2_CHANGELOG.md",
+      "bytes": 6022,
+      "sha256": "9b555a9a49677300b68fa082b42f8477e473d7b65312d1096701bba58b5cc88c"
+    }
+  ]
+}
