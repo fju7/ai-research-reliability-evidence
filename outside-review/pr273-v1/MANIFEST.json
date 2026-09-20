@@ -1,0 +1,83 @@
+{
+  "package_version": "pr273-v1",
+  "generated_at": "2026-09-20T13:59:53Z",
+  "source": {
+    "repository": "fju7/what-holds-up",
+    "pull_request": 273,
+    "pull_request_url": "https://github.com/fju7/what-holds-up/pull/273",
+    "head_ref": "codex/product-architecture-reset",
+    "head_commit": "944610c8d7b31b71b78f7925a555e7856294d515",
+    "head_tree": "c2057c6e5192d3a536637c7f24f8fb4966d6d6bc",
+    "base_ref": "main",
+    "base_commit": "e56e2d18cddfd2814711f75be36409cbbc4474d1",
+    "base_tree": "583dbe713a574e9c15c6b89236ed5428fbea5898",
+    "state_at_generation": "OPEN_UNMERGED"
+  },
+  "observation": {
+    "current_main_commit": "3074cbbcf394c50d82b543ece5ffcd918b8a0b22",
+    "current_main_tree": "b526fbca714413cf0344d127f2068e14797c46f6",
+    "ci_run": "https://github.com/fju7/what-holds-up/actions/runs/35514469990",
+    "ci_conclusion": "success"
+  },
+  "hash_algorithm": "SHA-256",
+  "manifest_excludes": [
+    "MANIFEST.json",
+    "MANIFEST.sha256"
+  ],
+  "files": [
+    {
+      "path": "CURRENT_STATE_GAP_ANALYSIS.md",
+      "sha256": "7d1c492a69a3ccaaac8facb28595227809750ab75bf28bd589977176d9449bd4",
+      "role": "primary_frozen_artifact",
+      "source_path": "CURRENT_STATE_GAP_ANALYSIS.md"
+    },
+    {
+      "path": "CURRENT_SYSTEM_FACTS.md",
+      "sha256": "4fc782fb8df907c63e6096290987367957c37c43191f232c0e953b762e8e306d",
+      "role": "neutral_context"
+    },
+    {
+      "path": "NEUTRAL_CONTEXT.md",
+      "sha256": "bfe5de5c552ad2c98e9d7eb6a0a79a28ccdd9b4e12bfa2f7a918205205a95e6a",
+      "role": "neutral_context"
+    },
+    {
+      "path": "OUTSIDE_REVIEW_PROMPT.md",
+      "sha256": "f2babcf68453af48528a511c08f829907354642c0dd148d540cd14fe064affed",
+      "role": "review_instructions"
+    },
+    {
+      "path": "PLAN.md",
+      "sha256": "0c2fbe8b4bc5bf002f18b662f55eda232c9f66be2485dce1c4363e617ec0ced2",
+      "role": "primary_frozen_artifact",
+      "source_path": "PLAN.md"
+    },
+    {
+      "path": "PRODUCT_REQUIREMENTS.md",
+      "sha256": "9e73f939e42a65788f3a20b197b51eb23b3d39de674201eb697fca9a95ecd8bd",
+      "role": "primary_frozen_artifact",
+      "source_path": "PRODUCT_REQUIREMENTS.md"
+    },
+    {
+      "path": "README.md",
+      "sha256": "be2c4ba5cc77d8c2e796d071839330fa8447be4f6cfa1f1fdbed5820d6f24cbc",
+      "role": "reviewer_entrypoint"
+    },
+    {
+      "path": "REQUIREMENTS_TRACEABILITY.md",
+      "sha256": "63d4c452363dc11dd31e542585201ff28bead417352a747afcd2c7c542211325",
+      "role": "primary_frozen_artifact",
+      "source_path": "REQUIREMENTS_TRACEABILITY.md"
+    },
+    {
+      "path": "RESEARCH_CONSTRAINTS.md",
+      "sha256": "5598f0528944bfda9d91f9e4be014f2d0b261a4262bdedc938935ad82c531d2c",
+      "role": "source_linked_background"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "sha256": "c293c9f6a2ae82505ce0ff99d1ad50ec2564f4ff64c62d497afb0a82f74a57f5",
+      "role": "neutral_packaging_verification"
+    }
+  ]
+}
