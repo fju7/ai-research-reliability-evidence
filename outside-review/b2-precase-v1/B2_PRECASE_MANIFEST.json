@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "experiment_id": "B2-ACQUISITION-ADEQUACY-PRECASE-2026-09-21",
+  "state": "FROZEN_PRE_CASE_REVIEW_REQUIRED",
+  "frozen_at": "2026-09-21",
+  "repository": "fju7/what-holds-up",
+  "base_main_commit": "9d2b638",
+  "authority_mode": "SHADOW",
+  "case_selected": false,
+  "case_identity_present": false,
+  "protected_reference_present": false,
+  "outside_review_required_before_case_selection": true,
+  "outside_review_delivered": false,
+  "provider_model_search_calls": 0,
+  "external_cash_usd": 0,
+  "files": [
+    {
+      "path": "docs/research/B2_ACQUISITION_ADEQUACY_PROTOCOL.md",
+      "sha256": "e84fd2fd37b9a1cf29cf5eac8bcd8939b9beb6141d5548407d4a26bba0db31ac"
+    },
+    {
+      "path": "docs/research/B2_CASE_SELECTION_CRITERIA.md",
+      "sha256": "1cbdaa011c2a8ea8f03b08f9ff05fe39c3dbe44f772bd00909276c2264561df9"
+    },
+    {
+      "path": "docs/research/B2_REFERENCE_BACKBONE_REQUIREMENTS.md",
+      "sha256": "683818dccfc59fcc544291f633c5680f45738b25fadc6e3715157796381ed0ca"
+    },
+    {
+      "path": "docs/research/B2_LEAKAGE_AND_BLINDING_PLAN.md",
+      "sha256": "56b6906f6799b3c22a01e4e0fa64609ddada673a9d066aa39c8345365c673e06"
+    },
+    {
+      "path": "docs/research/B2_SCORING_AND_DISPOSITIONS.md",
+      "sha256": "8e82950f194b6f70dddc7a5adc988abca5244d0f3d42605162e9b68c582f903c"
+    },
+    {
+      "path": "docs/research/B2_CONSEQUENTIAL_EVIDENCE_METHOD.md",
+      "sha256": "de11f4039085f87a6cbb6480c196de51c41351377dd9806cf9a35a622f217005"
+    },
+    {
+      "path": "docs/research/B2_CONTROL_STACK_COST_ACCOUNTING.md",
+      "sha256": "9f52767a54ffefa76d62693f8088a26572c9af79fdbe9180ec52d5c8d166c104"
+    },
+    {
+      "path": "docs/research/B2_PRECASE_OUTSIDE_REVIEW_PACKET.md",
+      "sha256": "dd915889afe0616d600353465e0330b422e6d6d46788f4179726a0458b6d0ac9"
+    }
+  ],
+  "invariants": [
+    "NO_CASE_SELECTION_BEFORE_REVIEW_CLOSE",
+    "NO_PROTECTED_REFERENCE_ACCESS_BY_ACQUISITION",
+    "PROTOCOL_COMPLETE_NEVER_IMPLIES_EVIDENCE_COMPLETE",
+    "DOCUMENT_RECALL_SEPARATE_FROM_CONSEQUENTIAL_RECALL",
+    "B2A_SEALED_BEFORE_ANY_B2B",
+    "PUBLICATION_AND_PRODUCTION_DISABLED"
+  ]
+}
